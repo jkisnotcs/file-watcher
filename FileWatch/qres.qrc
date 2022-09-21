@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ic_add_circle_outline_white_48dp.png</file>
+        <file>res/ic_build_white_48dp.png</file>
+        <file>res/ic_find_in_page_white_48dp.png</file>
+        <file>res/ic_pause_circle_outline_white_48dp.png</file>
+        <file>res/ic_play_circle_outline_white_48dp.png</file>
+        <file>res/ic_remove_circle_outline_white_48dp.png</file>
+        <file>res/ic_pause_white_48dp.png</file>
+        <file>res/ic_play_arrow_white_48dp.png</file>
+        <file>res/ic_power_settings_new_white_48dp.png</file>
+        <file>res/ic_search_white_48dp.png</file>
+        <file>res/ic_exit_to_app_white_48dp.png</file>
+        <file>res/taskRun.png</file>
+        <file>res/taskStop.png</file>
+        <file>res/ic_delete.png</file>
+        <file>res/ic_delete_forever.png</file>
+        <file>res/icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+    <task>
+        <path>F:/</path>
+        <action>15</action>
+        <flags>383</flags>
+        <ignoreFiles/>
+    </task>
+    <task>
+        <path>E:/</path>
+        <action>15</action>
+        <flags>383</flags>
+        <ignoreFiles/>
+    </task>
+    <task>
+        <path>D:/</path>
+        <action>15</action>
+        <flags>383</flags>
+        <ignoreFiles/>
+    </task>
+    <task>
+        <path>C:/Users/86150/Desktop</path>
+        <action>15</action>
+        <flags>383</flags>
+        <ignoreFiles/>
+    </task>
+</tasks>
